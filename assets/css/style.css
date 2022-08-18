@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
 body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   background-color: beige;
+  font-family: 'Aboreto', cursive;;
 }
 main {
   background: #fff;
   width: 90vw;
-  height: 60vh;
+  height: 40vh;
   margin: 15vh auto;
   text-align: center;
   box-shadow: 0 0 20px -1px black;
@@ -54,4 +56,5 @@ button {
     color: beige;
     font-size: 3rem;
     text-shadow: 0 0 100px black;
+    margin-top: 10%;
 }
