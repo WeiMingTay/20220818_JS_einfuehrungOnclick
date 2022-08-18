@@ -14,3 +14,7 @@ function changebg4() {
     bgMain.style.backgroundColor="#040352"
     bgH1.style.color="#29CCFE"
 }
+function changeBgMain() {
+    bgMain.style.backgroundColor="white"
+    bgH1.style.color="black"
+}
